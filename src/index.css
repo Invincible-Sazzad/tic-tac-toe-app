@@ -20,10 +20,19 @@ code {
 
 .status {
     margin-bottom: 10px;
+    padding-left: 20px;
 }
 .game-info {
     margin-left: 20px;
 }
+
+.board-row{
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  flex-direction: row;
+}
+
 .square {
     background: #fff;
     border: 1px solid #999;
