@@ -2,6 +2,7 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
 import Board from './components/Board';
+// import utility from './utility/util.js';
 // require("./utility/util.js");
 
 class Game extends React.Component{
